@@ -1,7 +1,5 @@
 package edu.stanford.cslib.trees;
 
-import edu.stanford.cslib.trees.BinaryTree.Node;
-
 public class BSTLookup {
 	
 	public boolean lookup(Node node, int num){

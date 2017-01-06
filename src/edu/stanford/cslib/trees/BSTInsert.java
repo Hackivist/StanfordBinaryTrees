@@ -1,7 +1,5 @@
 package edu.stanford.cslib.trees;
 
-import edu.stanford.cslib.trees.BinaryTree.Node;
-
 public class BSTInsert {
 	/*  
    Recursive insert -- given a node pointer, recur down and 
